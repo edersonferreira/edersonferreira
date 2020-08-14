@@ -12,3 +12,5 @@ And, in the database section, i know PostgreSQL and MySQL.
 - I love use and make CLI programs, and i have a lot of it! Like the [MarkPDF](https://github.com/edersonferreira/markpdf) and [RunCS](https://github.com/edersonferreira/runcs).
 - My operating system kernel is a Linux, because i love the customization what i can do in all the system. And the easy way to setup a shell/terminal or install packages.
 - I don't watch Movies or Series everyday, because i have a lot of laziness to do it. :sleeping: I only watch Documentaries, normaly about programming or Computer Science.
+
+[![ederson's github stats](https://github-readme-stats.vercel.app/api?username=edersonferreira)](https://github.com/anuraghazra/github-readme-stats)
