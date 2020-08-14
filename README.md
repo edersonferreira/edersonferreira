@@ -6,5 +6,6 @@ I know some languages or frameworks, like JavaScript, NodeJS, React, PHP, Ruby a
 
 And, in the database section, i know PostgreSQL and MySQL.
 
-[![ederson's github stats](https://github-readme-stats.vercel.app/api?username=edersonferreira&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonferreira&hide=vimscript&themes=synthwave)
+![ederson's github stats](https://github-readme-stats.vercel.app/api?username=edersonferreira&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonferreira&hide=vimscript&theme=synthwave)
