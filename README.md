@@ -1,10 +1,10 @@
 # whoami
 
-Hi, i am a fullstack developer (but i really like more Backend than Frontend :smile:).
+Hi, I'm a fullstack developer (but I really like more Backend than Frontend :smile:).
 
-I know some languages or frameworks, like JavaScript, NodeJS, React, PHP, Ruby and Python.
+I know some languages and frameworks, like JavaScript, NodeJS, React, PHP, Ruby and Python.
 
-And, in the database section, i know PostgreSQL and MySQL.
+And, in the database section, I know PostgreSQL and MySQL.
 
 ![ederson's github stats](https://github-readme-stats.vercel.app/api?username=edersonferreira&theme=dark)
 
