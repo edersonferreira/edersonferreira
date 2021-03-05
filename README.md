@@ -1,6 +1,6 @@
 # whoami
 
-Hi, I'm a fullstack developer (but I really like more Backend than Frontend :smile:).
+Hi, I'm a Backend Developer, focused in PHP and Golang.
 
 I know some languages and frameworks, like JavaScript, NodeJS, Vue, Golang and PHP.
 
